@@ -1,8 +1,19 @@
 # Table of Contents
-1. [Introduction](#introduction)
-2. [RESTful API vs GraphQL](#restful-api-vs-graphql)
-3. [Building a GraphQL Server](#building-a-graphql-server)
-4. [Conclusion](#conclusion)
+<!-- TOC start -->
+- [Introduction](#introduction)
+- [RESTful API vs GraphQL](#restful-api-vs-graphql)
+- [Building a GraphQL Server](#building-a-graphql-server)
+  * [GraphiQL](#graphiql)
+  * [More complex Example](#more-complex-example)
+  * [GraphQL Tools](#graphql-tools)
+- [Modularize GraphQL Project](#modularize-graphql-project)
+  * [Resolver](#resolver)
+  * [Modularize Resolvers](#modularize-resolvers)
+  * [Filtering with Queries and Resolvers](#filtering-with-queries-and-resolvers)
+  * [Mutation in GraphQL](#mutation-in-graphql)
+<!-- TOC end -->
+
+[Notion Link](https://www.notion.so/GraphQL-491ed481a63f41cb9be7ae3c906d65e0?pvs=4)
 
 # Introduction
 
